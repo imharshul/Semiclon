@@ -1,6 +1,0 @@
-G:\Semicolon\Semiclon\GitConsole\GitConsole\bin\Debug\GitConsole.exe.config
-G:\Semicolon\Semiclon\GitConsole\GitConsole\bin\Debug\GitConsole.exe
-G:\Semicolon\Semiclon\GitConsole\GitConsole\bin\Debug\GitConsole.pdb
-G:\Semicolon\Semiclon\GitConsole\GitConsole\obj\Debug\GitConsole.csprojResolveAssemblyReference.cache
-G:\Semicolon\Semiclon\GitConsole\GitConsole\obj\Debug\GitConsole.exe
-G:\Semicolon\Semiclon\GitConsole\GitConsole\obj\Debug\GitConsole.pdb
