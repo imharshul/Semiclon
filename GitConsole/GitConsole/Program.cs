@@ -11,7 +11,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             int x = 30;
-            Console.WriteLine(x);
+            Console.WriteLine("From Git {0}",x);
 
         }
     }
