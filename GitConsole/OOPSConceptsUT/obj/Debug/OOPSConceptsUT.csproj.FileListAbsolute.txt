@@ -1,0 +1,5 @@
+G:\Semicolon\Semiclon\GitConsole\OOPSConceptsUT\bin\Debug\OOPSConceptsUT.dll
+G:\Semicolon\Semiclon\GitConsole\OOPSConceptsUT\bin\Debug\OOPSConceptsUT.pdb
+G:\Semicolon\Semiclon\GitConsole\OOPSConceptsUT\obj\Debug\OOPSConceptsUT.csprojResolveAssemblyReference.cache
+G:\Semicolon\Semiclon\GitConsole\OOPSConceptsUT\obj\Debug\OOPSConceptsUT.dll
+G:\Semicolon\Semiclon\GitConsole\OOPSConceptsUT\obj\Debug\OOPSConceptsUT.pdb
