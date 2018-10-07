@@ -10,6 +10,8 @@ namespace GitConsole
     {
         static void Main(string[] args)
         {
+            int x = 30;
+            Console.WriteLine(x);
 
         }
     }
